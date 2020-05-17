@@ -25,6 +25,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.build" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -122,7 +123,7 @@
     </recent_temporary>
   </component>
   <component name="SvnConfiguration">
-    <configuration />
+    <configuration>C:\Users\Shristi\AppData\Roaming\Subversion</configuration>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -179,10 +180,14 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1344" height="216" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1589461037878" />
-    <state x="390" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1589544884368">
+    <state x="186" y="0" key="SettingsEditor" timestamp="1589709524505">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="390" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1589544884368" />
+    <state x="186" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1589709524505" />
+    <state x="390" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1589709391427">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="390" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1589709391427" />
     <state x="489" y="54" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1588682197156">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
