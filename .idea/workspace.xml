@@ -10,8 +10,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Python Script" />
         <option value="Python Unit Test" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -34,7 +34,7 @@
       <recent name="C:\Users\Shristi\PycharmProjects\yatra\smoke" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.Unittests in linksPageTeses.py">
+  <component name="RunManager" selected="Python tests.Unittests in postLogin.py">
     <configuration name="driver" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="yatra" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -54,20 +54,6 @@
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
       <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Unittests in assignment2.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
-      <module name="hello" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../hello" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/../hello/assignment2.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
     <configuration name="Unittests in demo2.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
@@ -112,13 +98,27 @@
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
+    <configuration name="Unittests in postLogin.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="yatra" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testcases/smoke" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/testcases/smoke/postLogin.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Unittests in postLogin.py" />
         <item itemvalue="Python tests.Unittests in linksPageTeses.py" />
         <item itemvalue="Python tests.Unittests in homePageTests.py" />
         <item itemvalue="Python.driver" />
         <item itemvalue="Python tests.Unittests in demo2.py" />
-        <item itemvalue="Python tests.Unittests in assignment2.py" />
       </list>
     </recent_temporary>
   </component>
@@ -148,22 +148,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="120" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1588069316978" />
-    <state width="1344" height="198" key="GridCell.Tab.0.bottom" timestamp="1589542850638">
+    <state width="1344" height="198" key="GridCell.Tab.0.bottom" timestamp="1589802605895">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1344" height="198" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1589542850638" />
-    <state width="1344" height="198" key="GridCell.Tab.0.center" timestamp="1589542850638">
+    <state width="1344" height="198" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1589802605895" />
+    <state width="1344" height="198" key="GridCell.Tab.0.center" timestamp="1589802605895">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1344" height="198" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1589542850638" />
-    <state width="1344" height="198" key="GridCell.Tab.0.left" timestamp="1589542850638">
+    <state width="1344" height="198" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1589802605895" />
+    <state width="1344" height="198" key="GridCell.Tab.0.left" timestamp="1589802605895">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1344" height="198" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1589542850638" />
-    <state width="1344" height="198" key="GridCell.Tab.0.right" timestamp="1589542850638">
+    <state width="1344" height="198" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1589802605895" />
+    <state width="1344" height="198" key="GridCell.Tab.0.right" timestamp="1589802605895">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1344" height="198" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1589542850638" />
+    <state width="1344" height="198" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1589802605895" />
     <state width="1344" height="216" key="GridCell.Tab.1.bottom" timestamp="1589461037878">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -184,10 +184,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="186" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1589709524505" />
-    <state x="390" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1589781814535">
+    <state x="390" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1589803011419">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="390" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1589781814535" />
+    <state x="390" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1589803011419" />
     <state x="489" y="54" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1588682197156">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
