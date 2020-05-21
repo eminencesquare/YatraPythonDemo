@@ -56,18 +56,18 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Unittests in demo2.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
-      <module name="hello" />
+    <configuration name="Unittests for postLogin.postLoginVerivication" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="yatra" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../hello" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testcases/smoke" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/../hello/demo2.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <option name="_new_target" value="&quot;postLogin.postLoginVerivication&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
     <configuration name="Unittests in homePageTests.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
@@ -116,9 +116,9 @@
       <list>
         <item itemvalue="Python tests.Unittests in postLogin.py" />
         <item itemvalue="Python tests.Unittests in linksPageTeses.py" />
+        <item itemvalue="Python tests.Unittests for postLogin.postLoginVerivication" />
         <item itemvalue="Python tests.Unittests in homePageTests.py" />
         <item itemvalue="Python.driver" />
-        <item itemvalue="Python tests.Unittests in demo2.py" />
       </list>
     </recent_temporary>
   </component>
@@ -144,53 +144,93 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="413" y="112" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1588332956399" />
+    <state x="514" y="278" key="#com.jetbrains.python.refactoring.move.PyMakeFunctionTopLevelDialog" timestamp="1590049555367">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="514" y="278" key="#com.jetbrains.python.refactoring.move.PyMakeFunctionTopLevelDialog/0.0.1366.728@0.0.1366.728" timestamp="1590049555367" />
     <state x="463" y="120" key="FileChooserDialogImpl" timestamp="1588069316978">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="120" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1588069316978" />
-    <state width="1344" height="198" key="GridCell.Tab.0.bottom" timestamp="1589802605895">
+    <state width="1344" height="197" key="GridCell.Tab.0.bottom" timestamp="1590071356640">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1344" height="198" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1589802605895" />
-    <state width="1344" height="198" key="GridCell.Tab.0.center" timestamp="1589802605895">
+    <state width="1344" height="197" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1590071356640" />
+    <state width="1344" height="197" key="GridCell.Tab.0.center" timestamp="1590071356640">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1344" height="198" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1589802605895" />
-    <state width="1344" height="198" key="GridCell.Tab.0.left" timestamp="1589802605895">
+    <state width="1344" height="197" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1590071356640" />
+    <state width="1344" height="197" key="GridCell.Tab.0.left" timestamp="1590071356640">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1344" height="198" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1589802605895" />
-    <state width="1344" height="198" key="GridCell.Tab.0.right" timestamp="1589802605895">
+    <state width="1344" height="197" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1590071356640" />
+    <state width="1344" height="197" key="GridCell.Tab.0.right" timestamp="1590071356640">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1344" height="198" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1589802605895" />
-    <state width="1344" height="216" key="GridCell.Tab.1.bottom" timestamp="1589461037878">
+    <state width="1344" height="197" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1590071356640" />
+    <state width="1344" height="222" key="GridCell.Tab.1.bottom" timestamp="1590058083755">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1344" height="216" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1589461037878" />
-    <state width="1344" height="216" key="GridCell.Tab.1.center" timestamp="1589461037878">
+    <state width="1344" height="222" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1590058083755" />
+    <state width="1344" height="222" key="GridCell.Tab.1.center" timestamp="1590058083755">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1344" height="216" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1589461037878" />
-    <state width="1344" height="216" key="GridCell.Tab.1.left" timestamp="1589461037878">
+    <state width="1344" height="222" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1590058083755" />
+    <state width="1344" height="222" key="GridCell.Tab.1.left" timestamp="1590058083755">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1344" height="216" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1589461037877" />
-    <state width="1344" height="216" key="GridCell.Tab.1.right" timestamp="1589461037878">
+    <state width="1344" height="222" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1590058083755" />
+    <state width="1344" height="222" key="GridCell.Tab.1.right" timestamp="1590058083755">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1344" height="216" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1589461037878" />
+    <state width="1344" height="222" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1590058083755" />
     <state x="186" y="0" key="SettingsEditor" timestamp="1589709524505">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="186" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1589709524505" />
-    <state x="390" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1589803011419">
+    <state x="390" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1590048740581">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="390" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1589803011419" />
+    <state x="390" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1590048740581" />
     <state x="489" y="54" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1588682197156">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="489" y="54" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1366.728@0.0.1366.728" timestamp="1588682197156" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/testcases/smoke/postLogin.py</url>
+          <line>30</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/testcases/smoke/linksPageTeses.py</url>
+          <line>36</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/testcases/smoke/linksPageTeses.py</url>
+          <line>25</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/testcases/smoke/linksPageTeses.py</url>
+          <line>32</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/testcases/smoke/linksPageTeses.py</url>
+          <line>30</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/testcases/smoke/postLogin.py</url>
+          <line>16</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
