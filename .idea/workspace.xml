@@ -34,8 +34,8 @@
       <recent name="C:\Users\Shristi\PycharmProjects\yatra\smoke" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.Unittests in postLogin.py">
-    <configuration name="driver" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python tests.Unittests in homePageTests.py">
+    <configuration name="Configuration" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="yatra" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -47,7 +47,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/helpers/driver.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/helpers/Configuration.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -56,18 +56,18 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Unittests for postLogin.postLoginVerivication" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
-      <module name="yatra" />
+    <configuration name="Unittests in demo.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="hello" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testcases/smoke" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../hello" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;postLogin.postLoginVerivication&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/../hello/demo.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
     <configuration name="Unittests in homePageTests.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
@@ -114,11 +114,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.Unittests in postLogin.py" />
-        <item itemvalue="Python tests.Unittests in linksPageTeses.py" />
-        <item itemvalue="Python tests.Unittests for postLogin.postLoginVerivication" />
         <item itemvalue="Python tests.Unittests in homePageTests.py" />
-        <item itemvalue="Python.driver" />
+        <item itemvalue="Python tests.Unittests in demo.py" />
+        <item itemvalue="Python tests.Unittests in linksPageTeses.py" />
+        <item itemvalue="Python.Configuration" />
+        <item itemvalue="Python tests.Unittests in postLogin.py" />
       </list>
     </recent_temporary>
   </component>
@@ -136,62 +136,62 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="438" y="172" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1589536972914">
+    <state x="438" y="172" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1592061934202">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="438" y="172" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1589536972914" />
-    <state x="413" y="112" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1588332956399">
+    <state x="438" y="172" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1592061934202" />
+    <state x="413" y="112" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1592037620200">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="413" y="112" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1588332956399" />
+    <state x="413" y="112" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1592037620200" />
     <state x="514" y="278" key="#com.jetbrains.python.refactoring.move.PyMakeFunctionTopLevelDialog" timestamp="1590049555367">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="514" y="278" key="#com.jetbrains.python.refactoring.move.PyMakeFunctionTopLevelDialog/0.0.1366.728@0.0.1366.728" timestamp="1590049555367" />
-    <state x="463" y="120" key="FileChooserDialogImpl" timestamp="1588069316978">
+    <state x="463" y="120" key="FileChooserDialogImpl" timestamp="1592492641848">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="120" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1588069316978" />
-    <state width="1344" height="197" key="GridCell.Tab.0.bottom" timestamp="1590071356640">
+    <state x="463" y="120" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1592492641848" />
+    <state width="1328" height="197" key="GridCell.Tab.0.bottom" timestamp="1592495449270">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1344" height="197" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1590071356640" />
-    <state width="1344" height="197" key="GridCell.Tab.0.center" timestamp="1590071356640">
+    <state width="1328" height="197" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1592495449270" />
+    <state width="1328" height="197" key="GridCell.Tab.0.center" timestamp="1592495449270">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1344" height="197" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1590071356640" />
-    <state width="1344" height="197" key="GridCell.Tab.0.left" timestamp="1590071356640">
+    <state width="1328" height="197" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1592495449270" />
+    <state width="1328" height="197" key="GridCell.Tab.0.left" timestamp="1592495449269">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1344" height="197" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1590071356640" />
-    <state width="1344" height="197" key="GridCell.Tab.0.right" timestamp="1590071356640">
+    <state width="1328" height="197" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1592495449269" />
+    <state width="1328" height="197" key="GridCell.Tab.0.right" timestamp="1592495449270">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1344" height="197" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1590071356640" />
-    <state width="1344" height="222" key="GridCell.Tab.1.bottom" timestamp="1590058083755">
+    <state width="1328" height="197" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1592495449270" />
+    <state width="1344" height="222" key="GridCell.Tab.1.bottom" timestamp="1590072427558">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1344" height="222" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1590058083755" />
-    <state width="1344" height="222" key="GridCell.Tab.1.center" timestamp="1590058083755">
+    <state width="1344" height="222" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1590072427558" />
+    <state width="1344" height="222" key="GridCell.Tab.1.center" timestamp="1590072427558">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1344" height="222" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1590058083755" />
-    <state width="1344" height="222" key="GridCell.Tab.1.left" timestamp="1590058083755">
+    <state width="1344" height="222" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1590072427558" />
+    <state width="1344" height="222" key="GridCell.Tab.1.left" timestamp="1590072427558">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1344" height="222" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1590058083755" />
-    <state width="1344" height="222" key="GridCell.Tab.1.right" timestamp="1590058083755">
+    <state width="1344" height="222" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1590072427558" />
+    <state width="1344" height="222" key="GridCell.Tab.1.right" timestamp="1590072427558">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1344" height="222" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1590058083755" />
+    <state width="1344" height="222" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1590072427558" />
     <state x="186" y="0" key="SettingsEditor" timestamp="1589709524505">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="186" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1589709524505" />
-    <state x="390" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1590048740581">
+    <state x="390" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1592401661399">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="390" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1590048740581" />
+    <state x="390" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1592401661399" />
     <state x="489" y="54" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1588682197156">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -202,32 +202,32 @@
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/testcases/smoke/postLogin.py</url>
-          <line>30</line>
+          <line>37</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/testcases/smoke/linksPageTeses.py</url>
-          <line>36</line>
+          <line>43</line>
           <option name="timeStamp" value="18" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/testcases/smoke/linksPageTeses.py</url>
-          <line>25</line>
+          <line>32</line>
           <option name="timeStamp" value="22" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/testcases/smoke/linksPageTeses.py</url>
-          <line>32</line>
+          <line>39</line>
           <option name="timeStamp" value="23" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/testcases/smoke/linksPageTeses.py</url>
-          <line>30</line>
+          <line>37</line>
           <option name="timeStamp" value="25" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/testcases/smoke/postLogin.py</url>
-          <line>16</line>
+          <line>23</line>
           <option name="timeStamp" value="27" />
         </line-breakpoint>
       </breakpoints>

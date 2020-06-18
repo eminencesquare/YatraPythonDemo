@@ -1,27 +1,34 @@
 import unittest
 import time
-from helpers.driver import driver
+from helpers.TestUtiles import driver
 from homePageTests import MyTestCase
 from selenium.webdriver import ActionChains
-
-
+xpath= driver.find_element_by_xpath
+css=driver.find_element_by_css_selector
+flight = css('a[title="Flights"]')
+bookFlights = xpath("//span[contains(text(),'Book Flights, Hotels and Holiday Packages')]")
+bookingHotels = css("#booking_engine_hotels")
+bookingHolidays = css("#booking_engine_holidays")
+bookingBuses = css("#booking_engine_buses")
+bookingInsurance = css("#booking_engine_insurance")
+bookingAdventures = css("#booking_engine_adventures")
 
 class linkVerification(unittest.TestCase):
 
  def test_name1(self):
      print("finish")
      time.sleep(20)
-     driver.find_element_by_css_selector('a[title="Flights"]').click()
+     flight.click()
      time.sleep(2)
-     driver.find_element_by_xpath("//span[contains(text(),'Book Flights, Hotels and Holiday Packages')]").is_displayed()
-     driver.find_element_by_css_selector("#booking_engine_hotels").click()
+     bookFlights.is_displayed()
+     bookingHotels.click()
      time.sleep(5)
-     driver.find_element_by_css_selector("#booking_engine_holidays").click()
-     driver.find_element_by_css_selector("#booking_engine_buses").click()
+     bookingHolidays.click()
+     bookingBuses.click()
      driver.back()
-     driver.find_element_by_css_selector("#booking_engine_insurance").click()
+     bookingInsurance.click()
      driver.back()
-     driver.find_element_by_css_selector("#booking_engine_adventures").click()
+     bookingAdventures.click()
      time.sleep(5)
      handles = driver.window_handles
      size = len(handles)

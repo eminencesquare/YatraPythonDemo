@@ -9,5 +9,6 @@
     <orderEntry type="module" module-name="hello" />
     <orderEntry type="module" module-name="bookMyShow" />
     <orderEntry type="module" module-name="luxuryescapes" />
+    <orderEntry type="module" module-name="SampleProject" />
   </component>
 </module>
